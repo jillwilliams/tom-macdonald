@@ -141,6 +141,9 @@ li a:hover {
     margin-top: 20px;
     font-size: 1.3rem;
 }
+#nova {
+    margin-top: 20px;
+}
 div.gallery img {
     width: 100%;
     height: auto;
